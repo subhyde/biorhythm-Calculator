@@ -1,0 +1,2 @@
+(this["webpackJsonpbiorhythm-calculator"]=this["webpackJsonpbiorhythm-calculator"]||[]).push([[4],{487:function(t,n,o){"use strict";o.r(n),o.d(n,"startStatusTap",(function(){return c}));var e=o(16),c=function(){var t=window;t.addEventListener("statusTap",(function(){Object(e.f)((function(){var n=t.innerWidth,o=t.innerHeight,c=document.elementFromPoint(n/2,o/2);if(c){var i=c.closest("ion-content");i&&i.componentOnReady().then((function(){Object(e.n)((function(){return i.scrollToTop(300)}))}))}}))}))}}}]);
+//# sourceMappingURL=4.199849b3.chunk.js.map

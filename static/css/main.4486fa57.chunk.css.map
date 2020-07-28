@@ -1,0 +1,1 @@
+{"version":3,"sources":["BiorhythmCard.css"],"names":[],"mappings":"AAAA,WACI,SACJ,CAEA,UACI,WACJ,CAEA,cACI,UACJ","file":"main.4486fa57.chunk.css","sourcesContent":[".emotional{\n    color: red;\n}\n\n.physical{\n    color: green;\n}\n\n.intellectual{\n    color: blue;\n}"]}
